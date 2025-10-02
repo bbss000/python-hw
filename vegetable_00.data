@@ -1,0 +1,25 @@
+#
+# vegetables
+#
+# Time-stamp: <2025/09/23 21:24:19 (UT+08:00) daisuke>
+#
+#  data format
+#   first column  : vegetable name
+#   second column : unit price
+#   third column  : quantity
+#
+asparagus     60    2
+carrot        30    2
+cucumber      15    4
+eggplant      25    3
+garlic        20    5
+ginger        35    3
+leek          40    2
+lettuce       50    1
+mushroom      35    3
+onion         30    2
+radish        50    1
+potato        20    5
+pumpkin       80    1
+spinach       30    3
+tomato        10    6
