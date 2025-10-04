@@ -7,4 +7,4 @@ with open (file_data, 'r') as fh: #open and read file_data
             list_f = float(list_s[num]) #change the type of data into float
             sum += list_f
 print(sum)
-        
+        AIzaSyAyYb-UiiNVErISC3uZf65uKG5I2hC4o9E
